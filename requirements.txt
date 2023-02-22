@@ -1,0 +1,5 @@
+dynesty
+gpflow
+matplotlib
+numpy
+tensorflow
